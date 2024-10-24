@@ -25,3 +25,6 @@ A maradék két pont közül az A-hoz képest kiszámoljuk a dőlésszöget. A B
 Összefoglalás:
 Az A pont mindig a legalsó pont lesz, és ha több pontnak is ugyanaz az Y értéke van, akkor a baloldalibb pont lesz az A.
 A maradék két pontot az A ponthoz viszonyított dőlésszög alapján rendezzük, hogy az óramutató járásával ellentétes sorrendet kapjunk.
+
+Projekt letöltésének linkje:
+https://drive.google.com/drive/folders/183nDddAUoYV9_7KKX5IWdcDQO4We3B4T?usp=sharing
