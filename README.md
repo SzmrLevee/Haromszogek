@@ -28,4 +28,5 @@ A maradék két pontot az A ponthoz viszonyított dőlésszög alapján rendezz�
 
 Projekt letöltésének linkje:
 https://drive.google.com/drive/folders/183nDddAUoYV9_7KKX5IWdcDQO4We3B4T?usp=sharing
+
 Keresendő fájl: HaromszogekKoordinataRendszerben.exe
